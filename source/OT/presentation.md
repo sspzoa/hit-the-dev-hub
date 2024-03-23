@@ -31,7 +31,7 @@ theme:
 
 **前 정보보안 동아리, Stealth & STARE**
 
-![bg right:45% h:400](서승표.png)
+![bg right:45% h:400](sspzoa.png)
 
 ---
 
@@ -45,7 +45,7 @@ theme:
 
 **제4회 한국코드페어 SW공모전 은상**
 
-![bg right:45% h:400](김형석.png)
+![bg right:45% h:400](hayward.png)
 
 ---
 
@@ -60,8 +60,7 @@ theme:
 **제4회 한국코드페어 해커톤 대상**
 
 
-![bg right:45% h:400](박시혁.png)
-
+![bg right:45% h:400](exon.png)
 
 ---
 
