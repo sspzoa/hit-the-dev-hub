@@ -1,7 +1,6 @@
 ---
 marp: true
 paginate: true
-theme: 
 ---
 
 ![bg](../cover.png)
@@ -9,11 +8,16 @@ theme:
 ---
 
 # **OT Contents**
+
 ### 1. 개발팀 소개
+
 ### 2. 무엇을 공부해야 하는가?
+
 ### 3. 로드맵
+
 ### 4. 간단한 개발 프로세스
-### 5. 환경설정 도움말
+
+### 5. 과제
 
 ---
 
@@ -22,7 +26,9 @@ theme:
 ---
 
 # 서승표
+
 ## **22HD | Mobile & Frontend**
+
 **디미고 인트라넷 개발팀, 딘 PM**
 
 **교내 무인매점 결제 솔루션, 디미페이 개발팀**
@@ -36,7 +42,9 @@ theme:
 ---
 
 # 김형석
+
 ## **22HD | AI & Robotics**
+
 **GENIUS Olympiad 한국대표단**
 
 **2024 KSEF 은상**
@@ -50,7 +58,9 @@ theme:
 ---
 
 # 박시혁
+
 ## **22HD | Web Full Stack**
+
 **2024 DIMI CTF 개발 및 운영**
 
 **WACON 2023 본선 진출**
@@ -59,16 +69,13 @@ theme:
 
 **제4회 한국코드페어 해커톤 대상**
 
-
 ![bg right:45% h:400](exon.png)
 
 ---
 
-
 # 2. 무엇을 공부해야 하는가?
 
 ---
-
 
 # 우리는 **정올**을 나갈 게 아니다!
 
@@ -81,12 +88,15 @@ when (x) {
     else -> print("otherwise")
 }
 ```
+
 ### 이런 거 공부할 필요가 없어요
+
 (특히 요즘은 gpt가 다 해줌)
 
 ---
 
 알고리즘과 문법 공부 대신
+
 # **개발**을 공부해야 합니다.
 
 ```zsh
@@ -107,20 +117,27 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ---
 
 ## Googling (Google, StackOverFlow)
+
 ## Notion, Figma, PPT
+
 ## Shell (Bash, Zsh, PowerShell)
+
 ## Git (GitHub)
+
 ## **ChatGPT 활용**
 
 ---
 
 # 문법은
+
 ```
 어떤 함수들이 있는가?
 ```
+
 ```
 이런 거 써서 구현할 수 있겠다
 ```
+
 # 이 정도만
 
 ---
@@ -130,8 +147,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ---
 
 # 4월 ~ 5월
+
 ## 웹 개발 중심으로 '개발' 배우기
+
 ## 필요한 경우 백엔드는 간단하게만
+
 ## **루나 웹사이트 만들기 (부서 공통)**
 
 ---
@@ -141,24 +161,35 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ---
 
 # 가져가는 거
+
 ### HTMl, CSS, Javascript
+
 ### NodeJS (express)
+
 ### Git, Github
+
 ### Docker, AWS
 
 ---
 
-# 6월 ~ 7월 
+# 6월 ~ 7월
+
 ## 포지션 선택 후 심화 공부 (App, Web, Backend)
+
 ## 창업동아리 프로젝트 시작
+
 ## 시간 오래 주는 대회 프로젝트 시작
 
 ---
 
 # 가져가는 거
+
 ### **React**, **NextJS**
+
 ### **Flutter** OR **RN**
+
 ### **Express** OR **NestJS**
+
 ### Etc.
 
 ---
@@ -168,6 +199,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ---
 
 ## **1. 요구사항 분석**
+
 기획에서 요구하는 기능들을 파악하고
 
 구현하고자 하는 기능을 개발하기 편한 기술 찾기
@@ -175,6 +207,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ---
 
 ## **2. 설계 (디자인)**
+
 기획된 서비스를 디자인하는 과정에서
 
 **하나도 빠뜨리지 않겠다는 생각으로** 디자인에 피드백 하기
@@ -184,6 +217,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ---
 
 ## **3. 구현**
+
 우리는 기밀 유출 걱정이 없기 때문에, AI 사용 적극 권장
 
 오류 고치는 데 굉장한 시간을 소모할 것
@@ -193,6 +227,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ---
 
 ## **4. 테스트**
+
 로컬에선 괜찮은데 서버 올라가면 이상해집니다
 
 디미고엔 해커들이 존재합니다
@@ -217,10 +252,6 @@ Docker, CD/CI 활용
 
 ---
 
-# 5. 환경설정 도움말
-
----
-
 # 5. 과제
 
 ---
@@ -228,9 +259,13 @@ Docker, CD/CI 활용
 # 회원 가입하기
 
 ### 1. GitHub
+
 ### 2. Notion
+
 ### 3. Figma
+
 ### 4. **ChatGPT** OR **Claude**
+
 ### 5. AWS (선택)
 
 ---
@@ -238,14 +273,17 @@ Docker, CD/CI 활용
 # 개발 환경 준비해 오기
 
 ### 1. Git 사용 환경 설정하기
-### 2. NodeJS 설치하기
-### 3. Code Editer 아무거나 설치하기 ex) vscode
-### 4. Docker Desktop 설치하기 (선택)
+
+### 2. Code Editer 아무거나 설치하기 ex) vscode
+
+### 3. NodeJS 설치하기
 
 ---
 
-# 하는 방법은 스스로 찾아보기
+# 하는 방법은 **htd.sspzoa.io**
+
 ### **궁금한 거 있으면**
+
 **Insta: `@_s._.pyo`**
 
 **Discord: `sspzoa`**
@@ -255,6 +293,7 @@ Docker, CD/CI 활용
 ---
 
 # 너무 어렵다면
+
 ## 다음 시간에 같이 해드립니다
 
 ---
