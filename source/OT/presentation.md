@@ -17,7 +17,7 @@ paginate: true
 
 ### 4. 간단한 개발 프로세스
 
-### 5. 과제
+### 5. 환경설정
 
 ---
 
@@ -89,7 +89,7 @@ when (x) {
 }
 ```
 
-### 이런 거 공부할 필요가 없어요
+### 이런 거 공부할 필요가 없다
 
 (특히 요즘은 gpt가 다 해줌)
 
@@ -97,7 +97,7 @@ when (x) {
 
 알고리즘과 문법 공부 대신
 
-# **개발**을 공부해야 합니다.
+# **개발**을 공부해야 한다
 
 ```zsh
 $ git push origin master
@@ -160,7 +160,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ---
 
-# 가져가는 거
+# 배우는 것
 
 ### HTMl, CSS, Javascript
 
@@ -182,7 +182,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ---
 
-# 가져가는 거
+# 배우는 것
 
 ### **React**, **NextJS**
 
@@ -228,9 +228,9 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ## **4. 테스트**
 
-로컬에선 괜찮은데 서버 올라가면 이상해집니다
+로컬에선 괜찮은데 서버 올라가면 오류가 생길 수 있음
 
-디미고엔 해커들이 존재합니다
+디미고엔 해커들이 존재
 
 ---
 
@@ -252,11 +252,11 @@ Docker, CD/CI 활용
 
 ---
 
-# 5. 과제
+# 5. 환경설정
 
 ---
 
-# 회원 가입하기
+# 회원가입
 
 ### 1. GitHub
 
@@ -266,15 +266,13 @@ Docker, CD/CI 활용
 
 ### 4. **ChatGPT** OR **Claude**
 
-### 5. AWS (선택)
-
 ---
 
-# 개발 환경 준비해 오기
+# 개발 환경 준비
 
 ### 1. Git 사용 환경 설정하기
 
-### 2. Code Editer 아무거나 설치하기 ex) vscode
+### 2. Code Editer 아무거나 설치하기 ex) vscode, WebStorm
 
 ### 3. NodeJS 설치하기
 
@@ -289,12 +287,6 @@ Docker, CD/CI 활용
 **Discord: `sspzoa`**
 
 **아니면 카톡**
-
----
-
-# 너무 어렵다면
-
-## 다음 시간에 같이 해드립니다
 
 ---
 
